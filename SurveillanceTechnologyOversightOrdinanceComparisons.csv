@@ -1,17 +1,17 @@
-State,Jurisdiction,Passage Date of Current Ordinance,Does the ordinance define surveillance technology?
-California,Santa Clara County,2016-06-21,YES
-California,City of Berkeley,2018-03-13,YES
-California,City of Davis,2018-04-03,YES
-California,City of Palo Alto,2018-09-10,YES
-California,Bay Area Rapid Transit District,2018-09-13,YES
-California,City and County of San Francisco,2019-05-14,YES
-California,City of Oakland,2021-01-20,YES
-Massachusetts,City of Lawrence,2018-09-18,YES
-Massachusetts,City of Cambridge,2018-12-10,YES
-Massachusetts,City of Somerville,2019-10-10,YES
-Michigan,City of Grand Rapids,2015-03-24,NO
-New York,City of New York,2020-07-15,YES
-Ohio,Village of Yellow Springs,2018-11-19,YES
-Tennessee,Nashville and Davidson County,2017-06-07,YES
-Washington,City of Seattle,2017-07-31,YES
-Wisconsin,City of Madison,2020-06-16,YES
+State,Jurisdiction,Passage Date of Current Ordinance,Does the ordinance define surveillance technology?,All departments are regulated by the ordinance.,Some departments are regulated by the ordinance / different rules apply to law enforcement.,One department is regulated by the ordinance.
+California,Santa Clara County,2016-06-21,YES,YES,NO,NO
+California,City of Berkeley,2018-03-13,YES,YES,NO,NO
+California,City of Davis,2018-04-03,YES,YES,NO,NO
+California,City of Oakland,2021-01-20,YES,YES,NO,NO
+California,City of Palo Alto,2018-09-10,YES,NO,YES,NO
+California,Bay Area Rapid Transit District,2018-09-13,YES,YES,NO,NO
+California,City and County of San Francisco,2019-05-14,YES,NO,YES,NO
+Massachusetts,City of Lawrence,2018-09-18,YES,NO,YES,NO
+Massachusetts,City of Cambridge,2018-12-10,YES,NO,YES,NO
+Massachusetts,City of Somerville,2019-10-10,YES,YES,NO,NO
+Michigan,City of Grand Rapids,2015-03-24,NO,YES,NO,NO
+New York,City of New York,2020-07-15,YES,NO,NO,YES
+Ohio,Village of Yellow Springs,2018-11-19,YES,YES,NO,NO
+Tennessee,Nashville and Davidson County,2017-06-07,YES,NO,YES,NO
+Washington,City of Seattle,2017-07-31,YES,NO,YES,NO
+Wisconsin,City of Madison,2020-06-16,YES,YES,NO,NO
