@@ -1,17 +1,17 @@
-State,Jurisdiction,Passage Date of Current Ordinance,Does the ordinance define surveillance technology?,All departments are regulated by the ordinance.,Some departments are regulated by the ordinance / different rules apply to law enforcement.,One department is regulated by the ordinance.,Surveillance use policies are required.,Surveillance impact report is required.,Annual report on surveillance practices and policies is required.,Does an elected body review or approve ordinance reports and policies?,Does the ordinance apply retroactively?,Does the ordinance reference an independent body that assists in reviewing surveillance technology?,The ordinance creates a private right of action in the event of breach.,The ordinance creates a misdemeanor that can be prosecuted in the event of breach.,The ordinance creates a suppression remedy.,Employees who violate provisions can be disciplined.,Contracts that violate the ordinance may be delayed or canceled.
-California,Santa Clara County,2016-06-21,YES,YES,NO,NO,YES,YES,YES,YES,YES,NO,YES,YES,NO,NO,YES
-California,City of Berkeley,2018-03-13,YES,YES,NO,NO,YES,YES,YES,YES,YES,YES,YES,NO,NO,NO,YES
-California,City of Davis,2018-04-03,YES,YES,NO,NO,YES,YES,YES,YES,YES,NO,YES,YES,NO,NO,NO
-California,City of Oakland,2021-01-20,YES,YES,NO,NO,YES,YES,YES,YES,YES,YES,YES,NO,NO,YES,YES
-California,City of Palo Alto,2018-09-10,YES,NO,YES,NO,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO
-California,Bay Area Rapid Transit District,2018-09-13,YES,YES,NO,NO,YES,YES,YES,YES,YES,NO,YES,NO,NO,NO,NO
-California,City and County of San Francisco,2019-05-14,YES,NO,YES,NO,YES,YES,YES,YES,YES,YES,YES,NO,NO,NO,NO
-Massachusetts,City of Lawrence,2018-09-18,YES,NO,YES,NO,YES,YES,YES,YES,YES,NO,YES,NO,YES,YES,YES
-Massachusetts,City of Cambridge,2018-12-10,YES,NO,YES,NO,YES,YES,YES,YES,YES,NO,YES,NO,NO,NO,NO
-Massachusetts,City of Somerville,2019-10-10,YES,YES,NO,NO,YES,YES,YES,YES,YES,NO,YES,NO,YES,NO,NO
-Michigan,City of Grand Rapids,2015-03-24,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO
-New York,City of New York,2020-07-15,YES,NO,NO,YES,YES,YES,YES,NO,YES,NO,NO,NO,NO,NO,NO
-Ohio,Village of Yellow Springs,2018-11-19,YES,YES,NO,NO,YES,NO,YES,YES,YES,NO,NO,NO,NO,YES,YES
-Tennessee,Nashville and Davidson County,2017-06-07,YES,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO
-Washington,City of Seattle,2017-07-31,YES,NO,YES,NO,YES,YES,YES,YES,NO,YES,YES,NO,NO,NO,NO
-Wisconsin,City of Madison,2020-06-16,YES,YES,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO
+State,Jurisdiction,Passage Date of Current Ordinance,Does the ordinance define surveillance technology?,All departments are regulated by the ordinance.,Some departments are regulated by the ordinance / different rules apply to law enforcement.,One department is regulated by the ordinance.,Surveillance use policies are required.,Surveillance impact report is required.,Annual report on surveillance practices and policies is required.,Does an elected body review or approve ordinance reports and policies?,Does the ordinance apply retroactively?,Does the ordinance reference an independent body that assists in reviewing surveillance technology?,The ordinance creates a private right of action in the event of breach.,The ordinance creates a misdemeanor that can be prosecuted in the event of breach.,The ordinance creates a suppression remedy.,Employees who violate provisions can be disciplined.,Contracts that violate the ordinance may be delayed or canceled.,Inexigent circumstances, departments can temporarily bypass approval requirements.,Exceptions made for certain law enforcement technologies and investigations.,Exception for data collection to which the public consents or can opt-out.,Exception for departments to apply technical patches without approval.,Exception for large-scale events.,Exception for sensitive information.
+California,Santa Clara County,2016-06-21,YES,YES,NO,NO,YES,YES,YES,YES,YES,NO,YES,YES,NO,NO,YES,YES,NO,YES,NO,NO,NO
+California,City of Berkeley,2018-03-13,YES,YES,NO,NO,YES,YES,YES,YES,YES,YES,YES,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO
+California,City of Davis,2018-04-03,YES,YES,NO,NO,YES,YES,YES,YES,YES,NO,YES,YES,NO,NO,NO,YES,YES,NO,NO,NO,NO
+California,City of Oakland,2021-01-20,YES,YES,NO,NO,YES,YES,YES,YES,YES,YES,YES,NO,NO,YES,YES,YES,YES,NO,NO,YES,NO
+California,City of Palo Alto,2018-09-10,YES,NO,YES,NO,YES,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO
+California,Bay Area Rapid Transit District,2018-09-13,YES,YES,NO,NO,YES,YES,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,NO
+California,City and County of San Francisco,2019-05-14,YES,NO,YES,NO,YES,YES,YES,YES,YES,YES,YES,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO
+Massachusetts,City of Lawrence,2018-09-18,YES,NO,YES,NO,YES,YES,YES,YES,YES,NO,YES,NO,YES,YES,YES,YES,NO,NO,NO,NO,NO
+Massachusetts,City of Cambridge,2018-12-10,YES,NO,YES,NO,YES,YES,YES,YES,YES,NO,YES,NO,NO,NO,NO,YES,NO,YES,YES,NO,NO
+Massachusetts,City of Somerville,2019-10-10,YES,YES,NO,NO,YES,YES,YES,YES,YES,NO,YES,NO,YES,NO,NO,YES,YES,YES,YES,NO,NO
+Michigan,City of Grand Rapids,2015-03-24,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO
+New York,City of New York,2020-07-15,YES,NO,NO,YES,YES,YES,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+Ohio,Village of Yellow Springs,2018-11-19,YES,YES,NO,NO,YES,NO,YES,YES,YES,NO,NO,NO,NO,YES,YES,YES,YES,NO,NO,NO,NO
+Tennessee,Nashville and Davidson County,2017-06-07,YES,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO
+Washington,City of Seattle,2017-07-31,YES,NO,YES,NO,YES,YES,YES,YES,NO,YES,YES,NO,NO,NO,NO,YES,YES,YES,YES,NO,NO
+Wisconsin,City of Madison,2020-06-16,YES,YES,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,YES,YES,YES,YES,NO,YES
